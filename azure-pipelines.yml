@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: '82f7f806-1a79-424f-8ba9-d1bee9ee7803'
   
   # Web app name
-  webAppName: 'MyAppThib'
+  webAppName: 'PythonAppThib'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
